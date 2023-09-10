@@ -1,0 +1,5 @@
+Poniżej znajduje się kod HTML zawierający artykuł. Proszę, żebyś zrobił z nim parę rzeczy:
+- Przepisał go w Markdown
+- Jeśli znajduje się w nim obraz (np JPEG) - wstaw zamiast niego w to miejsce link do niego, gdzie widocznym tekstem będzie podpis, a jeśli nie ma podpisu to uwtórz własny w formacie "zdjęcie nr X", gdzie X to numer zdjęcia w artykule
+ - Popraw wykryte błędy językowe
+ - jeśli jest błąd w numerowaniu punktów (np są dwa drugie punkty), to popraw numerowanie tych punktów
