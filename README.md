@@ -3,6 +3,3 @@ I'm currently developing it to specifically convert daily posts by Ukraina:wojna
 If made to working stage expanding towards general automatic article -> video and customisability is to be expected.
 
 Usage instructions will appear when program becomes usable.
-
-
-Copyright by Juliusz Kocinski
